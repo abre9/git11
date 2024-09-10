@@ -1,1 +1,1 @@
-function adder
+function adder(x,y)
